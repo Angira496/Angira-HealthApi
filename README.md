@@ -1,3 +1,2 @@
-https://angira-healthapi.onrender.com/predict
-
+angira-healthapi.onrender.com/
 LIve sever
