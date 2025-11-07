@@ -1,0 +1,101 @@
+Disease Name,Type of Disease,Symptoms,Doctor,Remedies
+Flu,Chronic,"High blood sugar, Fatigue, Joint pain",Cardiologist,Inhaler
+Flu,Chronic,"Headache, Rash",Pediatrician,Antihistamines
+Hypertension,Infectious,"Headache, Runny nose, Cough",Dermatologist,Paracetamol
+Asthma,Viral,"Fever, High blood sugar",Endocrinologist,Fluids
+Arthritis,Bacterial,"Runny nose, High blood sugar",Pulmonologist,Inhaler
+Chickenpox,Chronic,"Runny nose, Rash, Vomiting, Headache",Endocrinologist,Rest
+Hypertension,Chronic,"Headache, Cough, Dizziness, Runny nose",Dermatologist,Inhaler
+Malaria,Genetic,"Cough, High blood sugar, Vomiting",Neurologist,"Paracetamol, Antihistamines"
+Arthritis,Bacterial,"Rash, Shortness of breath, Fatigue",Dermatologist,Rest
+Chickenpox,Lifestyle,"Headache, Runny nose, High blood sugar, Rash",Pediatrician,"Paracetamol, Fluids"
+Flu,Bacterial,"Runny nose, Shortness of breath",Neurologist,Paracetamol
+Malaria,Viral,"Shortness of breath, Fatigue",Gastroenterologist,"Rest, Antibiotics"
+Cold,Acute,"Headache, Shortness of breath, High blood sugar",Gastroenterologist,Inhaler
+Typhoid,Autoimmune,"Shortness of breath, High blood sugar, Cough, Joint pain",Endocrinologist,"Lifestyle changes, Inhaler"
+Chickenpox,Infectious,"High blood sugar, Fever, Rash, Fatigue",Pulmonologist,Paracetamol
+Arthritis,Lifestyle,"Fever, Cough, High blood sugar",Pediatrician,"Antibiotics, Paracetamol"
+Hypertension,Chronic,"Rash, Runny nose, Dizziness",Orthopedist,"Paracetamol, Antihistamines"
+Asthma,Genetic,"Vomiting, Cough",Orthopedist,Fluids
+Cold,Viral,"Fever, Vomiting, Headache",Neurologist,"Paracetamol, Insulin"
+Typhoid,Genetic,"Fatigue, High blood sugar",Endocrinologist,Antibiotics
+Typhoid,Bacterial,"Dizziness, Cough, Fatigue, Shortness of breath",Cardiologist,"Antibiotics, Inhaler"
+Asthma,Autoimmune,"Runny nose, Vomiting, Fatigue, Cough",Endocrinologist,"Antihistamines, Antibiotics"
+Asthma,Lifestyle,"Shortness of breath, Nausea",Dermatologist,Inhaler
+Diabetes,Autoimmune,"Rash, Runny nose, Headache, Shortness of breath",Orthopedist,"Painkillers, Lifestyle changes"
+Migraine,Viral,"Vomiting, Fever, Runny nose",Orthopedist,"Inhaler, Insulin"
+Diabetes,Bacterial,"Headache, Fever",Neurologist,"Painkillers, Paracetamol"
+Asthma,Bacterial,"Shortness of breath, Joint pain, Runny nose, Dizziness",Pulmonologist,"Paracetamol, Rest"
+Cold,Autoimmune,"Fatigue, Runny nose",Orthopedist,Paracetamol
+Migraine,Bacterial,"Shortness of breath, Dizziness, Nausea",Pediatrician,Lifestyle changes
+Migraine,Genetic,"Joint pain, High blood sugar, Headache, Nausea",Cardiologist,"Insulin, Lifestyle changes"
+Malaria,Chronic,"Fever, Dizziness, Nausea",Orthopedist,"Insulin, Antihistamines"
+Chickenpox,Viral,"High blood sugar, Shortness of breath",Orthopedist,Insulin
+Malaria,Bacterial,"Joint pain, Vomiting, Headache, Nausea",Neurologist,"Rest, Painkillers"
+Cold,Bacterial,"Runny nose, Vomiting, High blood sugar, Fatigue",Neurologist,"Antibiotics, Lifestyle changes"
+Asthma,Infectious,"Headache, Nausea, Runny nose, Vomiting",Pediatrician,Fluids
+Cold,Chronic,"Rash, Dizziness, Cough, Runny nose",Pediatrician,"Painkillers, Fluids"
+Migraine,Bacterial,"Headache, High blood sugar, Rash",General Physician,Paracetamol
+Typhoid,Lifestyle,"Shortness of breath, Joint pain, Fever, Vomiting",Pediatrician,"Lifestyle changes, Paracetamol"
+Diabetes,Genetic,"Dizziness, Joint pain, Rash",Neurologist,Inhaler
+Malaria,Viral,"High blood sugar, Vomiting",Dermatologist,Rest
+Hypertension,Genetic,"Dizziness, Runny nose, Fever, Fatigue",Pediatrician,"Fluids, Rest"
+Hypertension,Bacterial,"Nausea, Runny nose, Joint pain",Neurologist,Rest
+Cold,Acute,"Vomiting, Runny nose, Dizziness, Cough",Cardiologist,"Insulin, Antihistamines"
+Flu,Autoimmune,"Shortness of breath, Rash, High blood sugar, Headache",Pulmonologist,"Antibiotics, Lifestyle changes"
+Cold,Genetic,"Fatigue, Shortness of breath",Pediatrician,Lifestyle changes
+Typhoid,Lifestyle,"Cough, Rash, High blood sugar",Cardiologist,"Painkillers, Antihistamines"
+Chickenpox,Genetic,"Runny nose, Nausea",Pediatrician,Fluids
+Migraine,Autoimmune,"Dizziness, Vomiting, Cough",Pediatrician,"Painkillers, Antibiotics"
+Asthma,Viral,"Runny nose, Rash",Dermatologist,Rest
+Typhoid,Infectious,"Headache, Dizziness",Dermatologist,Fluids
+Flu,Acute,"Headache, Rash",Pediatrician,Insulin
+Hypertension,Genetic,"Shortness of breath, Nausea, Fever",Orthopedist,Insulin
+Cold,Genetic,"High blood sugar, Vomiting",Dermatologist,"Painkillers, Antihistamines"
+Malaria,Acute,"Nausea, Dizziness",Pulmonologist,"Antihistamines, Insulin"
+Arthritis,Infectious,"Vomiting, Headache",Cardiologist,"Fluids, Painkillers"
+Arthritis,Chronic,"Joint pain, Dizziness, Fever",Pediatrician,Lifestyle changes
+Hypertension,Infectious,"Fatigue, Cough",Orthopedist,Rest
+Hypertension,Viral,"High blood sugar, Joint pain, Vomiting, Rash",Gastroenterologist,Antibiotics
+Flu,Bacterial,"Fever, Dizziness, Cough",Endocrinologist,"Paracetamol, Antihistamines"
+Hypertension,Infectious,"Fatigue, Joint pain",Neurologist,Rest
+Flu,Lifestyle,"Headache, Dizziness, Fatigue",Pediatrician,"Antibiotics, Lifestyle changes"
+Chickenpox,Autoimmune,"Fatigue, Dizziness, Cough, Vomiting",Cardiologist,Insulin
+Flu,Infectious,"Fatigue, Rash",Gastroenterologist,Rest
+Cold,Viral,"Fever, Headache",Cardiologist,Insulin
+Arthritis,Genetic,"Fever, Joint pain, Vomiting",Pulmonologist,"Lifestyle changes, Fluids"
+Chickenpox,Acute,"Nausea, Vomiting, High blood sugar, Dizziness",Endocrinologist,"Rest, Inhaler"
+Diabetes,Viral,"Dizziness, Runny nose",General Physician,Antihistamines
+Chickenpox,Autoimmune,"Dizziness, Headache, Joint pain, Vomiting",General Physician,Inhaler
+Malaria,Autoimmune,"Headache, High blood sugar",Pulmonologist,Paracetamol
+Migraine,Genetic,"Vomiting, Shortness of breath, High blood sugar, Runny nose",Orthopedist,Antihistamines
+Chickenpox,Bacterial,"Fatigue, Rash, Cough",Dermatologist,"Antibiotics, Painkillers"
+Diabetes,Infectious,"Cough, Runny nose, Fatigue, Shortness of breath",General Physician,Fluids
+Cold,Infectious,"Shortness of breath, Fatigue, Rash",Cardiologist,Antihistamines
+Typhoid,Viral,"Nausea, High blood sugar, Fever",Neurologist,"Antihistamines, Painkillers"
+Migraine,Infectious,"High blood sugar, Dizziness, Shortness of breath",General Physician,"Paracetamol, Painkillers"
+Arthritis,Genetic,"Fatigue, Nausea",General Physician,"Insulin, Fluids"
+Diabetes,Infectious,"Joint pain, High blood sugar",General Physician,Fluids
+Migraine,Chronic,"Cough, Rash",Pediatrician,Inhaler
+Arthritis,Lifestyle,"Fever, Fatigue, High blood sugar",Gastroenterologist,"Fluids, Rest"
+Arthritis,Lifestyle,"Vomiting, Rash, Fatigue, Cough",Neurologist,Rest
+Cold,Genetic,"Runny nose, Headache, Shortness of breath, Joint pain",Orthopedist,Antihistamines
+Asthma,Viral,"Headache, Shortness of breath, Nausea, Cough",Dermatologist,Inhaler
+Hypertension,Acute,"Joint pain, Fever",Dermatologist,Rest
+Flu,Bacterial,"Cough, Vomiting, Fever, Headache",Neurologist,Paracetamol
+Typhoid,Viral,"Vomiting, Joint pain, Fatigue, Nausea",Dermatologist,Antibiotics
+Typhoid,Genetic,"Dizziness, Vomiting, Nausea, Shortness of breath",Cardiologist,"Paracetamol, Painkillers"
+Diabetes,Bacterial,"Dizziness, Shortness of breath, High blood sugar, Nausea",Cardiologist,Antibiotics
+Asthma,Lifestyle,"High blood sugar, Cough",Neurologist,"Inhaler, Fluids"
+Cold,Autoimmune,"Joint pain, High blood sugar, Runny nose, Nausea",Dermatologist,"Paracetamol, Rest"
+Arthritis,Infectious,"Joint pain, Nausea, Fever",Pulmonologist,Painkillers
+Typhoid,Chronic,"Nausea, Fatigue",Cardiologist,Antihistamines
+Hypertension,Bacterial,"Nausea, Fever, Vomiting, Runny nose",Neurologist,Antihistamines
+Cold,Acute,"Shortness of breath, Cough",Dermatologist,"Rest, Antibiotics"
+Cold,Lifestyle,"Runny nose, High blood sugar, Rash, Fatigue",Endocrinologist,"Antihistamines, Antibiotics"
+Malaria,Genetic,"Vomiting, Nausea",General Physician,Painkillers
+Typhoid,Lifestyle,"Dizziness, High blood sugar",Pediatrician,"Antihistamines, Inhaler"
+Flu,Bacterial,"Fatigue, Vomiting",Endocrinologist,Lifestyle changes
+Cold,Viral,"Nausea, High blood sugar, Runny nose",Pulmonologist,Rest
+Cold,Chronic,"High blood sugar, Shortness of breath",Pediatrician,"Fluids, Inhaler"
+Hypertension,Genetic,"Nausea, Headache, Dizziness",Gastroenterologist,Antibiotics
