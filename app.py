@@ -19,7 +19,7 @@ model = joblib.load("rf_model.sav")
 def home():
     return render_template('index.html')
 
-@app.route('/predict', methods=['POST'])
+@app.route('https://angira-healthapi.onrender.com/predict', methods=['POST'])
 def predict():
     try:
         symptoms = request.form['symptoms']
@@ -43,4 +43,5 @@ import os
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))  # Render provides PORT automatically
     app.run(host='0.0.0.0', port=port, debug=False)
+
 
